@@ -1,0 +1,463 @@
+2020-06-24 19:16:25,728 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Execution Started
+2020-06-25 07:10:48,993 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:10:49,011 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:10:55,800 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:11:03,874 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:11:04,477 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:11:04,964 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:11:08,979 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Login is successfull
+2020-06-25 07:11:09,030 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:13:07,279 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:13:07,300 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:13:14,964 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:13:23,819 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:13:24,384 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:13:24,780 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:13:28,270 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:18:21,309 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:18:21,325 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:18:27,355 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:18:33,540 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:18:34,101 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:18:34,442 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:18:38,158 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:20:53,831 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:20:53,843 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:21:00,136 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:21:08,153 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:21:08,868 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:21:09,240 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:21:12,614 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:23:05,527 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:23:05,541 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:23:12,264 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:23:18,149 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:23:18,760 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:23:19,226 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:23:23,216 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:23:23,336 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:25:17,053 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:25:17,064 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:25:23,687 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:25:29,885 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:25:30,454 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:25:30,885 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:25:34,140 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:25:34,282 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:27:08,227 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:27:08,243 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:27:14,924 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:27:53,694 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:28:24,119 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:28:31,376 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:28:40,050 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:30:44,198 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:30:44,211 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:30:50,527 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:31:00,487 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:31:01,288 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:31:01,687 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:31:06,693 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:31:06,848 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:33:27,842 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:33:27,859 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:33:33,673 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:33:39,735 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:33:40,405 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:33:40,903 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:33:44,075 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:33:44,197 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:36:28,240 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:36:28,252 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:36:34,343 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:36:40,252 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:36:40,761 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:36:41,091 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:36:44,107 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:36:44,204 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:39:10,012 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:39:10,028 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:39:17,202 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:39:23,120 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:39:23,699 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:39:24,035 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:39:27,011 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:39:27,150 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:45:49,522 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:45:49,534 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:45:55,653 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:46:02,666 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:46:03,230 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:46:03,599 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:46:07,243 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:46:07,278 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test case passed
+2020-06-25 07:46:07,345 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:48:08,202 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:48:08,221 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:48:14,535 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:48:19,989 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:48:20,480 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:48:20,796 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:48:23,990 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:48:24,018 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test case passed
+2020-06-25 07:48:24,076 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:49:19,325 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:49:19,335 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:49:25,254 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:49:30,694 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:49:31,236 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:49:31,586 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:49:34,554 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:49:34,606 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Login Test case passed
+2020-06-25 07:49:34,668 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:50:33,858 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:50:33,873 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:50:39,737 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:50:45,008 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:50:45,475 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:50:45,828 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:50:49,381 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:50:49,416 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Login Test case passed
+2020-06-25 07:50:49,494 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-25 07:51:48,633 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-25 07:51:48,648 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-25 07:51:54,498 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-25 07:52:01,774 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-25 07:52:02,382 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-25 07:52:02,724 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-25 07:52:05,720 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-25 07:52:05,746 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Login Test case Failed
+2020-06-25 07:52:05,820 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-26 07:09:50,380 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-26 07:09:50,405 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-26 07:09:57,069 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-26 07:10:04,151 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-26 07:10:04,921 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-26 07:10:05,501 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-26 07:10:07,690 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-26 07:10:07,736 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Login Test case Failed
+2020-06-26 07:10:07,813 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-26 16:56:49,079 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-26 16:56:49,093 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-26 16:56:56,235 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-26 16:57:07,167 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 11:51:13,857 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 11:51:13,876 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 11:51:25,249 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 11:51:34,437 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 11:53:44,529 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 11:53:44,546 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 11:53:53,091 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 11:54:02,743 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 11:59:48,640 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 11:59:48,653 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 11:59:56,681 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 12:00:08,140 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 12:01:03,067 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 12:01:03,086 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 12:01:10,888 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 12:01:21,694 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 12:10:09,339 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 12:10:09,353 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 12:10:15,801 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 12:10:23,346 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 12:11:18,834 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 12:11:18,850 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 12:11:26,600 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 12:11:34,079 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 12:11:34,899 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 12:11:35,433 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 12:11:39,411 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 12:11:47,218 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 16:36:23,693 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 16:36:23,707 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 16:36:29,545 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 16:36:42,603 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 16:36:43,103 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 16:36:43,526 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 16:36:47,436 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 16:36:54,794 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 16:50:15,006 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 16:50:15,024 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 16:50:20,813 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 16:50:32,864 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 16:50:33,472 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 16:50:33,837 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 16:50:37,757 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 16:50:45,541 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 16:52:29,226 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 16:52:29,238 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 16:52:35,399 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 16:52:43,103 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 16:52:43,722 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 16:52:44,191 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 16:52:47,188 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 16:52:54,435 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 16:54:27,778 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 16:54:27,794 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 16:54:33,736 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 16:54:41,212 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 16:54:41,694 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 16:54:42,060 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 16:54:45,518 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 16:54:53,662 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 17:10:01,935 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 17:10:01,953 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 17:10:08,248 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 17:10:18,887 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:10:19,563 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 17:10:19,961 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 17:10:23,403 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 17:10:30,719 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:10:40,918 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:20:33,891 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 17:20:33,904 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 17:20:39,836 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 17:20:50,800 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:20:51,276 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 17:20:51,597 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 17:20:54,841 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 17:21:01,723 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:21:11,896 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:21:17,837 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:21:17,931 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 17:22:18,661 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 17:22:18,673 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 17:22:24,807 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 17:22:34,408 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:22:34,866 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 17:22:35,190 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 17:22:38,246 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 17:22:44,406 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:22:49,702 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:22:50,062 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:22:50,109 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 17:23:11,925 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 17:23:11,940 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 17:23:17,755 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 17:23:25,351 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:23:25,991 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 17:23:26,355 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 17:23:29,692 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 17:23:36,752 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:23:46,889 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:23:56,996 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 17:24:07,084 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 18:48:19,112 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 18:48:19,127 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 18:48:25,445 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 18:48:34,591 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:48:35,103 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 18:48:35,446 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 18:48:38,904 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 18:48:54,175 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:49:04,217 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:49:14,281 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:49:24,368 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 18:53:17,261 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 18:53:17,274 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 18:53:23,358 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 18:53:31,245 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:53:31,686 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 18:53:32,025 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 18:53:35,607 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 18:53:45,368 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:53:55,514 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:54:05,568 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 18:54:15,650 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 19:03:28,223 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 19:03:28,237 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 19:03:34,012 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 19:03:43,467 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:03:43,892 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:03:44,363 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:03:47,879 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:03:54,588 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:04:05,710 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:04:15,769 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:04:25,853 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 19:06:52,901 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 19:06:52,920 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 19:06:59,422 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 19:07:07,596 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:07:08,169 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:07:08,583 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:07:11,834 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:07:18,888 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:07:30,054 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:07:40,120 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:07:50,213 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 19:12:11,273 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 19:12:11,288 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 19:12:17,119 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 19:12:27,399 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:12:27,888 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:12:28,240 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:12:31,786 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:12:43,734 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:12:53,902 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:14:45,291 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 19:14:45,312 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 19:14:52,416 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 19:15:00,259 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:15:00,866 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:15:01,205 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:15:03,943 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:15:18,596 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:15:18,766 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:15:21,309 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:15:21,647 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:15:24,627 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:15:37,004 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:15:37,059 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 19:25:24,443 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 19:25:24,459 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 19:25:31,273 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 19:25:41,643 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:25:42,145 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:25:42,527 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:25:46,072 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:25:56,298 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:25:56,753 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:25:57,139 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:26:00,205 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:26:22,436 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:26:22,520 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:26:25,639 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:26:25,925 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:26:28,491 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:26:48,157 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-29 19:30:31,441 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-29 19:30:31,454 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-29 19:30:38,383 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-29 19:30:46,599 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:30:47,174 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:30:47,641 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:30:50,861 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:31:13,517 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:31:16,895 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:31:17,402 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:31:20,678 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:31:41,811 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:31:44,693 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-29 19:31:45,063 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-29 19:31:47,665 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-29 19:31:56,778 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-29 19:32:07,890 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-06-30 12:37:35,310 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-30 12:37:35,328 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-30 12:37:42,368 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-30 12:37:52,517 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-30 12:37:53,109 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-30 12:37:53,483 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-30 12:37:57,510 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-30 12:38:08,521 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-30 12:43:48,314 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-06-30 12:43:48,327 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-06-30 12:43:54,397 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-06-30 12:44:03,275 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-30 12:44:03,911 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-30 12:44:04,324 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-30 12:44:08,362 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-30 12:44:32,849 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-30 12:44:36,116 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-30 12:44:36,451 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-30 12:44:39,498 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-30 12:45:01,785 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-30 12:45:04,944 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-30 12:45:05,443 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-30 12:45:08,622 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-30 12:45:29,902 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-06-30 12:45:33,585 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-06-30 12:45:33,943 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-06-30 12:45:36,962 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-06-30 12:45:57,503 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-07-03 13:12:34,670 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-03 13:12:34,682 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-03 13:12:43,890 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-03 13:12:54,402 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:12:54,871 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:12:55,193 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:12:58,930 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:13:22,179 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:13:25,705 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:13:25,998 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:13:29,321 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:13:50,034 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:13:53,284 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:13:53,588 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:13:56,257 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:14:17,451 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:14:20,183 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:14:20,473 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:14:23,246 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:14:43,979 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-07-03 13:26:43,843 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-03 13:26:43,853 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-03 13:26:50,872 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-03 13:41:02,413 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-03 13:41:02,423 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-03 13:41:09,462 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-03 13:41:22,333 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:41:22,864 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:41:23,370 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:41:26,938 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:41:38,303 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:41:49,479 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:41:59,533 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:42:09,591 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-07-03 13:46:42,049 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-03 13:46:42,059 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-03 13:46:49,528 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-03 13:47:00,642 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:47:01,214 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:47:01,680 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:47:04,981 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:48:31,583 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-03 13:48:31,603 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-03 13:48:38,905 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-03 13:48:47,534 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:48:48,130 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:48:48,535 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:48:51,895 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:49:12,430 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:49:15,315 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:49:15,668 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:49:18,406 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:49:39,346 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:49:42,305 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:49:42,629 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:49:45,675 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:50:06,138 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-03 13:50:09,451 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-03 13:50:09,772 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-03 13:50:12,818 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-03 13:50:32,551 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-07-06 15:35:30,458 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-06 15:35:30,479 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-06 15:35:41,506 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-06 15:35:53,297 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:35:53,820 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-06 15:35:54,148 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-06 15:35:58,135 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-06 15:36:21,840 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:36:25,072 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-06 15:36:25,436 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-06 15:36:29,076 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-06 15:36:52,379 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:36:55,369 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-06 15:36:55,720 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-06 15:36:59,419 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-06 15:37:19,103 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:37:22,212 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Username has been entered
+2020-07-06 15:37:22,547 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Passwword has been entered
+2020-07-06 15:37:25,377 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Clicked on Login
+2020-07-06 15:37:47,585 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********
+2020-07-06 15:49:44,331 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Started**********
+2020-07-06 15:49:44,351 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Chrome Browser will start
+2020-07-06 15:49:54,488 [main] INFO com.gtplbankV1.automatio.Base.TestBase -  Browser has been launched 
+2020-07-06 15:50:03,946 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:50:15,381 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:50:26,370 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:50:36,431 [main] INFO com.gtplbankV1.automatio.Base.TestBase - Test Case to check login function
+2020-07-06 15:50:46,511 [main] INFO com.gtplbankV1.automatio.Base.TestBase - **********Execution Completed**********

@@ -1,0 +1,7 @@
+com\gtplbankV1\automation\Tests\AddNewCustomerTest.class
+com\gtplbankV1\automation\Tests\HomePageTest.class
+com\gtplbankV1\automation\utilities\ReadConfig.class
+com\gtplbankV1\automatio\Base\TestBase.class
+com\gtplbankV1\automation\utilities\XLUtils.class
+com\gtplbankV1\automation\Tests\LoginPageTest.class
+com\gtplbankV1\automation\utilities\Reporting.class
